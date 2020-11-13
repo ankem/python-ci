@@ -13,7 +13,7 @@ class TestSetup(unittest.TestCase):
 
     def testAddNumbers(self):
         c = addNumbers(self.a, self.b)
-        self.assertEqual(30, c)
+        self.assertEqual(40, c)
 
 
 if __name__ == '__main__':
