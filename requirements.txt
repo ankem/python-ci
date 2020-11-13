@@ -1,0 +1,8 @@
+simplejson
+simple-salesforce
+pyodbc
+pandas
+apache-airflow[sentry]
+boto3
+xlrd
+scipy
